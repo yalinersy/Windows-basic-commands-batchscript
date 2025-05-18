@@ -62,7 +62,7 @@ Compare the file hello.txt and rose.txt
 ## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
-Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="Jobhn" and display as "Hello, John".
+Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
 
